@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="LKk7KAR-OE2yzOhIp2HS">
+    <mxGraphModel dx="2327" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x904i6ubZWv_-MVS3jeu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="340" width="170" x="-10" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="340" width="170" x="270" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="340" width="170" x="560" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-5" edge="1" parent="1" source="x904i6ubZWv_-MVS3jeu-1" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="271" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="200" as="sourcePoint" />
+            <mxPoint x="729" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-9" y="300" as="sourcePoint" />
+            <mxPoint x="160" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="271" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560.5" y="300" as="sourcePoint" />
+            <mxPoint x="729.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;حساب&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+وراثت&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+موجودی()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+حساب&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+/...محصول&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;-شناسه&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;-نام/ورود&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="45" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;کاربر&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="45" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+متد ها&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+()&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;موجودی&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;+.../محصول&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="110" x="590" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;-کدکالا&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;-قیمت&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="615" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;محصول&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="615" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+متد ها&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+موجودی()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+موجودی&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+.../محصول&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="310" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;-شماره&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-موجودی / واریز&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="240" as="sourcePoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;وراثت&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-24" edge="1" parent="1" source="x904i6ubZWv_-MVS3jeu-2" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=diamondThin;startFill=1;exitX=1.006;exitY=0.297;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="290" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ارتباط&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x904i6ubZWv_-MVS3jeu-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;این نمودار، ساختار ایستای یک سیستم را با نمایش کلاس‌ها، ویژگی‌ها، متدها و روابط میان آن‌ها نشان می‌دهد&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="680" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
