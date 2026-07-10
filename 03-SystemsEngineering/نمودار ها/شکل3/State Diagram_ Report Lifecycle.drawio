@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="6EY8oFb3diLzYPt2g17Z">
+    <mxGraphModel dx="2338" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qqryUD9BdYe-payzL1rT-13" edge="1" parent="1" source="qqryUD9BdYe-payzL1rT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="qqryUD9BdYe-payzL1rT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-14" edge="1" parent="1" source="qqryUD9BdYe-payzL1rT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="qqryUD9BdYe-payzL1rT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="-100" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-15" edge="1" parent="1" source="qqryUD9BdYe-payzL1rT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="qqryUD9BdYe-payzL1rT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="540" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-16" edge="1" parent="1" source="qqryUD9BdYe-payzL1rT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="qqryUD9BdYe-payzL1rT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="210" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;بیکار&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-10" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;وارد شده&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;خطا&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;اعتبار سنجی&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=oval;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="105.5" as="sourcePoint" />
+            <mxPoint x="210" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;موفقیت&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="60" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;اعتبار نامه نادرست&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="30" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;موفقیت&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;خروج&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="qqryUD9BdYe-payzL1rT-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;این نمودار، رفتار یک موجودیت را بر اساس وضعیت فعلی آن و محرک‌هایی که باعث تغییر وضعیت می‌شوند، مدل‌سازی می‌کند&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="610" x="20" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
