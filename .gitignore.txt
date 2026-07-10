@@ -1,0 +1,23 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local database
+*.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Compressed duplicate files
+*.rar
+*.zip
