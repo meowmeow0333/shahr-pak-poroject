@@ -1,0 +1,20 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.5, pytest-9.1.1, pluggy-1.6.0
+rootdir: C:\Users\ACG\Desktop\shahr_pak
+plugins: anyio-4.11.0, cov-7.1.0
+collected 13 items
+
+tests\test_shahr_pak.py .............                                    [100%]
+
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.12.5-final-0 _______________
+
+Name                  Stmts   Miss  Cover   Missing
+---------------------------------------------------
+app\database.py          28      3    89%   26, 91-92
+app\models.py            78      0   100%
+app\repositories.py     109     22    80%   26-29, 32-41, 58, 90-91, 144, 169-174, 177-180
+app\services.py          80      8    90%   32, 109, 138, 184, 187-190
+---------------------------------------------------
+TOTAL                   295     33    89%
+============================= 13 passed in 0.39s ==============================

@@ -1,0 +1,22 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.5, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\ACG\AppData\Local\Programs\Python\Python312\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\ACG\Desktop\shahr_pak
+plugins: anyio-4.11.0, cov-7.1.0
+collecting ... collected 13 items
+
+tests/test_shahr_pak.py::test_submit_report_success PASSED               [  7%]
+tests/test_shahr_pak.py::test_submit_report_missing_fields_raises PASSED [ 15%]
+tests/test_shahr_pak.py::test_submitted_report_is_persisted_and_listed PASSED [ 23%]
+tests/test_shahr_pak.py::test_valid_status_transition PASSED             [ 30%]
+tests/test_shahr_pak.py::test_invalid_status_transition_raises PASSED    [ 38%]
+tests/test_shahr_pak.py::test_completed_report_cannot_change_again PASSED [ 46%]
+tests/test_shahr_pak.py::test_change_status_nonexistent_report_raises PASSED [ 53%]
+tests/test_shahr_pak.py::test_filter_reports_by_keyword PASSED           [ 61%]
+tests/test_shahr_pak.py::test_bin_status_updates_to_full_above_threshold PASSED [ 69%]
+tests/test_shahr_pak.py::test_bins_needing_attention_excludes_normal PASSED [ 76%]
+tests/test_shahr_pak.py::test_notification_published_on_report_submit PASSED [ 84%]
+tests/test_shahr_pak.py::test_dashboard_overview_counts_reports PASSED   [ 92%]
+tests/test_shahr_pak.py::test_dashboard_reports_bins_and_vehicles_totals PASSED [100%]
+
+============================= 13 passed in 0.28s ==============================
