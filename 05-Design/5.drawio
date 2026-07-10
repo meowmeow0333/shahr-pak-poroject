@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="180sdjQhpDltrHiAjRCf">
+    <mxGraphModel dx="1765" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-16" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-17" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ONhQA0SsOeUFbinIiBIF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-18" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONhQA0SsOeUFbinIiBIF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-1" parent="1" style="swimlane;" value="کاربر" vertex="1">
+          <mxGeometry height="120" width="180" x="340" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-26" parent="ONhQA0SsOeUFbinIiBIF-1" style="text;whiteSpace=wrap;html=1;align=right;fillColor=none;fontSize=14;fontColor=default;" value="- شناسه، نام، تلفن&lt;br&gt;- ورود / خروج&lt;br&gt;- شهروند / کارمند / مدیر" vertex="1">
+          <mxGeometry height="70" width="130" x="25" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-6" parent="1" style="swimlane;" value="مخزن زباله" vertex="1">
+          <mxGeometry height="150" width="200" x="610" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-27" parent="ONhQA0SsOeUFbinIiBIF-6" style="text;whiteSpace=wrap;html=1;align=right;fontSize=14;" value="- مکان، ظرفیت&lt;br&gt;- سطح پرشدگی، وضعیت&lt;br&gt;- به‌روزرسانی وضعیت" vertex="1">
+          <mxGeometry height="70" width="130" x="35" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-7" parent="1" style="swimlane;" value="اعلان" vertex="1">
+          <mxGeometry height="150" width="200" x="610" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-30" parent="ONhQA0SsOeUFbinIiBIF-7" style="text;whiteSpace=wrap;html=1;align=center;fontSize=14;" value="- متن پیام&#xa;- تاریخ ارسال&#xa;- ارسال اعلان" vertex="1">
+          <mxGeometry height="70" width="90" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-9" parent="1" style="swimlane;" value="گزارش" vertex="1">
+          <mxGeometry height="150" width="200" x="20" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-29" parent="ONhQA0SsOeUFbinIiBIF-9" style="text;whiteSpace=wrap;html=1;align=right;fontSize=14;" value="- توضیح، مکان، تاریخ&#xa;- وضعیت گزارش&#xa;- ثبت و تغییر وضعیت" vertex="1">
+          <mxGeometry height="70" width="120" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-19" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ONhQA0SsOeUFbinIiBIF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-20" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ONhQA0SsOeUFbinIiBIF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-22" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONhQA0SsOeUFbinIiBIF-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="420" />
+              <mxPoint x="130" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-24" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ONhQA0SsOeUFbinIiBIF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-10" parent="1" style="swimlane;" value="سرویس گزارش" vertex="1">
+          <mxGeometry height="150" width="200" x="330" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-28" parent="ONhQA0SsOeUFbinIiBIF-10" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" value="- دریافت گزارش‌ها&#xa;- نمایش فهرست گزارش‌ها&#xa;- تغییر وضعیت گزارش" vertex="1">
+          <mxGeometry height="70" width="140" x="35" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-12" parent="1" style="swimlane;" value="پایگاه داده" vertex="1">
+          <mxGeometry height="150" width="200" x="30" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-33" parent="ONhQA0SsOeUFbinIiBIF-12" style="text;whiteSpace=wrap;html=1;fontSize=14;" value="- ذخیره کاربران&#xa;- ذخیره گزارش‌ها و مخازن" vertex="1">
+          <mxGeometry height="50" width="140" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-25" edge="1" parent="1" source="ONhQA0SsOeUFbinIiBIF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ONhQA0SsOeUFbinIiBIF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-11" parent="1" style="swimlane;" value="سرویس اعلان" vertex="1">
+          <mxGeometry height="150" width="200" x="330" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-32" parent="ONhQA0SsOeUFbinIiBIF-11" style="text;whiteSpace=wrap;html=1;fontSize=14;" value="- ارسال پیام وضعیت&#xa;- اطلاع‌رسانی به کاربر" vertex="1">
+          <mxGeometry height="50" width="130" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="تست و پیگیری&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ذخیره اطلاعات" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ارسال اعلان" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="به روز رسانی" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="مشاهده وضعیت" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ONhQA0SsOeUFbinIiBIF-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ایجاد پیام" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
