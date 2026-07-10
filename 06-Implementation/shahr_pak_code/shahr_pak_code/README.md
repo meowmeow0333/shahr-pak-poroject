@@ -66,3 +66,4 @@ python3 -m pytest test_shahr_pak.py -v
 - dadeye sensor makhzanha shabihsazi-shode ast (dastresi be sakhtafzar vagheyi vojood nadarad).
 - rabet karbari, khat-farman (CLI) sade ast; tamarkoz projeh rooye tahlil, tarai va esbat sehat memari ast,
   na sakht yek mahsool tejari kamel.
+Jira integration completed.
