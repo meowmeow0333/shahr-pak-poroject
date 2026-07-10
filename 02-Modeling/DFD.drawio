@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Bn55mlKwArSHv553H-zn">
+    <mxGraphModel dx="1034" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-15" edge="1" parent="1" source="Crl2PtAVcKx77vbnBW-M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="430" />
+              <mxPoint x="160" y="430" />
+            </Array>
+            <mxPoint x="160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-16" edge="1" parent="1" source="Crl2PtAVcKx77vbnBW-M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="Crl2PtAVcKx77vbnBW-M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="120" x="370" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="سیستم مدیریت پسماند شهری" vertex="1">
+          <mxGeometry height="60" width="60" x="400" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-12" edge="1" parent="1" source="Crl2PtAVcKx77vbnBW-M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="100" x="690" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="شهروند&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="اپراتور&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-17" edge="1" parent="1" source="Crl2PtAVcKx77vbnBW-M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="پایگاه داده&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="مدیر شهرداری" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="sourcePoint" />
+            <mxPoint x="190.03999999999996" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-14" edge="1" parent="1" source="Crl2PtAVcKx77vbnBW-M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" target="Crl2PtAVcKx77vbnBW-M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-18" edge="1" parent="1" source="Crl2PtAVcKx77vbnBW-M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" target="Crl2PtAVcKx77vbnBW-M-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ثبت گزارش&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="اعلام وضعیت گزارش&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="برسی و به روز رسانی وضعیت گزرش&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="لیست گزارش&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ذخیره اطلاعات&amp;nbsp;&lt;div&gt;گزارش&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="دریافت اطلاعات گزارش&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Crl2PtAVcKx77vbnBW-M-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="گزارش های اماری و تحلیلی" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
